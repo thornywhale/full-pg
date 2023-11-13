@@ -1,0 +1,1 @@
+GET http://localhost:3000/api/users/92/tasks?page=1&amount=3 HTTP/1.1

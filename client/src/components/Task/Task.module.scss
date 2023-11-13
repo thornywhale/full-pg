@@ -1,0 +1,9 @@
+.task-list {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.done {
+  text-decoration: line-through;
+}
